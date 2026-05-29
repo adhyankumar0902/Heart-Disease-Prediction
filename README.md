@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heart Disease Prediction
 
 ## Overview
@@ -72,3 +73,7 @@ python app.py
 Adhyan Kumar  
 B.Tech AI & Data Science  
 IIT Patna
+=======
+# Heart-Disease-Prediction
+Machine Learning project for predicting heart disease using patient health parameters.
+>>>>>>> 56de47a7bc5bc80d135c522fc60f7a8e94923b31
